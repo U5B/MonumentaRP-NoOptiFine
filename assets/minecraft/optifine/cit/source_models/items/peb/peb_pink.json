@@ -1,0 +1,6 @@
+{
+	"parent": "optifine/cit/source_models/items/peb/template_peb",
+	"textures": {
+		"t": "optifine/cit/monumenta/items/peb/peb_pink/peb_pink"
+	}
+}

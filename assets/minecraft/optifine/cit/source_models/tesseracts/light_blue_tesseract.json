@@ -1,0 +1,9 @@
+{
+	"credit": "lb is the first time dungeon",
+	"parent": "optifine/cit/source_models/tesseracts/tesseract_base",
+	"textures": {
+		"texture": "optifine/cit/celsian_isles/unique/tesseracts/light_blue/light_blue_tesseract",
+		"inside": "optifine/cit/celsian_isles/unique/tesseracts/light_blue/light_blue_tesseract_inside",
+		"effect": "optifine/cit/celsian_isles/unique/tesseracts/blank_effects"
+	}
+}

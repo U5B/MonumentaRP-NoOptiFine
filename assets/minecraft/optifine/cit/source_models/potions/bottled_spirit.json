@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/celsian_isles/misc/lore/bottled_spirit/potion_overlay",
+        "layer1": "optifine/cit/celsian_isles/misc/lore/bottled_spirit/potion"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/kings_valley/event/halloween/vial_of_mysterious_liquid/potion_overlay",
+        "layer1": "optifine/cit/kings_valley/event/halloween/vial_of_mysterious_liquid/potion"
+    }
+}

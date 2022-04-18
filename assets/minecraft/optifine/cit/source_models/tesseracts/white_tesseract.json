@@ -1,0 +1,9 @@
+{
+	"credit": "everything about white is mid tier",
+	"parent": "optifine/cit/source_models/tesseracts/tesseract_base",
+	"textures": {
+		"texture": "optifine/cit/celsian_isles/unique/tesseracts/white/white_tesseract",
+		"inside": "optifine/cit/celsian_isles/unique/tesseracts/white/white_tesseract_inside",
+		"effect": "optifine/cit/celsian_isles/unique/tesseracts/blank_effects"
+	}
+}

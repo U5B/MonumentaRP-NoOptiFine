@@ -1,0 +1,9 @@
+{
+	"credit": "daddy saladman please make more pepe frogs for me",
+	"parent": "optifine/cit/source_models/tesseracts/tesseract_base",
+	"textures": {
+		"texture": "optifine/cit/celsian_isles/unique/tesseracts/lime/lime_tesseract",
+		"inside": "optifine/cit/celsian_isles/unique/tesseracts/lime/lime_tesseract_inside",
+		"effect": "optifine/cit/celsian_isles/unique/tesseracts/blank_effects"
+	}
+}

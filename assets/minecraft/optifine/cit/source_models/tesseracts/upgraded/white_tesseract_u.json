@@ -1,0 +1,9 @@
+{
+	"credit": "im so creatively bankrupt",
+	"parent": "optifine/cit/source_models/tesseracts/tesseract_base",
+	"textures": {
+		"texture": "optifine/cit/celsian_isles/artifact/upgraded_tesseracts/white/white_tesseract_u",
+		"inside": "optifine/cit/celsian_isles/artifact/upgraded_tesseracts/white/white_tesseract_inside_u",
+		"effect": "optifine/cit/celsian_isles/artifact/upgraded_tesseracts/white/white_tesseract_effects_u"
+	}
+}

@@ -1,0 +1,43 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/torch"
+    },
+	"display": {
+		"thirdperson_righthand": {
+            "scale": [ 1.1, 1.1, 0.55 ],
+			"rotation": [0, 0, 0],
+			"translation": [0, 3, 1]
+		},
+		"thirdperson_lefthand": {
+            "scale": [ 1.1, 1.1, 0.55 ],
+			"rotation": [0, 0, 0],
+			"translation": [0, 3, 1]
+		},
+		"firstperson_righthand": {
+            "scale": [ 1.36, 1.36, 0.68 ],
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 0]
+		},
+		"firstperson_lefthand": {
+            "scale": [ 1.36, 1.36, 0.68 ],
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 0]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1.0, 1.0, 0.5 ]
+        },
+        "fixed": {
+            "rotation": [ 180, 0, 180 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1.75, 1.75, 1.0 ]
+        },
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 2, 2, 1.0 ]
+        }
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"credit": "astaroth-chan when",
+	"parent": "optifine/cit/source_models/tesseracts/tesseract_base",
+	"textures": {
+		"texture": "optifine/cit/celsian_isles/artifact/upgraded_tesseracts/cyan/cyan_tesseract_u",
+		"inside": "optifine/cit/celsian_isles/artifact/upgraded_tesseracts/cyan/cyan_tesseract_inside_u",
+		"effect": "optifine/cit/celsian_isles/artifact/upgraded_tesseracts/cyan/cyan_tesseract_effects_u"
+	}
+}

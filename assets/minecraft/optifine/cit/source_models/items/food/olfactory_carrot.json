@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"particle": "#layer0",
+		"layer0": "optifine/cit/kings_valley/event/winter/olfactory_carrot/olfactory_carrot"
+	}
+}

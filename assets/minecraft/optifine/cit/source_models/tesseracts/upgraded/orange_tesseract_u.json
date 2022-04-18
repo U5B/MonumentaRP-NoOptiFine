@@ -1,0 +1,9 @@
+{
+	"credit": "czanil said trans wrongs according to fang",
+	"parent": "optifine/cit/source_models/tesseracts/tesseract_base",
+	"textures": {
+		"texture": "optifine/cit/celsian_isles/artifact/upgraded_tesseracts/orange/orange_tesseract_u",
+		"inside": "optifine/cit/celsian_isles/artifact/upgraded_tesseracts/orange/orange_tesseract_inside_u",
+		"effect": "optifine/cit/celsian_isles/artifact/upgraded_tesseracts/orange/orange_tesseract_effects_u"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"side": "optifine/cit/kings_valley/unique/misc/lootbox/lootbox_side",
+		"bottom": "optifine/cit/kings_valley/unique/misc/lootbox/lootbox_bottom",
+		"top": "optifine/cit/kings_valley/unique/misc/lootbox/lootbox_top"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "optifine/cit/source_models/shields/circle_shield_blocking",
+	"textures": {
+		"all": "optifine/cit/celsian_isles/skin/mythic_reliquary/andromeda_fragment/andromeda_fragment"
+	}
+}

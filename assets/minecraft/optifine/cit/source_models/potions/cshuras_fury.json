@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/kings_valley/uncommon/strike/forsworn_sanctum/cshuras_fury/potion_overlay",
+        "layer1": "optifine/cit/kings_valley/uncommon/strike/forsworn_sanctum/cshuras_fury/potion"
+    }
+}

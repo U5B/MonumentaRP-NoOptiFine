@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"side": "optifine/cit/monumenta/legacy/kings_valley/pids/pids_side",
+		"bottom": "optifine/cit/monumenta/legacy/kings_valley/pids/pids_bottom",
+		"top": "optifine/cit/monumenta/legacy/kings_valley/pids/pids_top"
+	}
+}

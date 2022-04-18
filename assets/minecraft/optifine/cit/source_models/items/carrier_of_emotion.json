@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"side": "optifine/cit/celsian_isles/unique/tesseracts/purple/carrier_of_emotion_side",
+		"bottom": "optifine/cit/celsian_isles/unique/tesseracts/purple/carrier_of_emotion_bottom",
+		"top": "optifine/cit/celsian_isles/unique/tesseracts/purple/carrier_of_emotion_top"
+	}
+}

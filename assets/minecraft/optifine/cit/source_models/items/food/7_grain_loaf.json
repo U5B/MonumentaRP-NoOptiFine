@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"particle": "#layer0",
+		"layer0": "optifine/cit/celsian_isles/unique/misc/7_grain_loaf/7_grain_loaf"
+	}
+}

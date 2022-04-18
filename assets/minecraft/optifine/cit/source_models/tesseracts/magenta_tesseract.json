@@ -1,0 +1,9 @@
+{
+	"credit": "magenta caused covid 19",
+	"parent": "optifine/cit/source_models/tesseracts/tesseract_base",
+	"textures": {
+		"texture": "optifine/cit/celsian_isles/unique/tesseracts/magenta/magenta_tesseract",
+		"inside": "optifine/cit/celsian_isles/unique/tesseracts/magenta/magenta_tesseract_inside",
+		"effect": "optifine/cit/celsian_isles/unique/tesseracts/blank_effects"
+	}
+}

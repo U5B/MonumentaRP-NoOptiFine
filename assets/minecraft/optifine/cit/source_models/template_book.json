@@ -1,0 +1,97 @@
+{
+	"texture_size": [64, 64],
+	"elements": [
+		{
+			"name": "outer",
+			"from": [2, 0, 6.5],
+			"to": [14, 16, 9.5],
+			"faces": {
+				"north": {"uv": [3.75, 1.375, 6.75, 5.375], "texture": "#t"},
+				"east": {"uv": [3, 1.375, 3.75, 5.375], "texture": "#t"},
+				"south": {"uv": [0, 1.375, 3, 5.375], "texture": "#t"},
+				"west": {"uv": [6.75, 1.375, 7.5, 5.375], "texture": "#t"},
+				"up": {"uv": [3.75, 0.625, 6.75, 1.375], "rotation": 180, "texture": "#t"},
+				"down": {"uv": [3.75, 5.375, 6.75, 6.125], "rotation": 180, "texture": "#t"}
+			}
+		},
+		{
+			"name": "edge",
+			"from": [13.5, 0, 7],
+			"to": [13.5, 16, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.5, 8, 8]},
+			"faces": {
+				"west": {"uv": [3.125, 6.875, 3.625, 10.875], "texture": "#t"}
+			}
+		},
+		{
+			"name": "bottom",
+			"from": [2, 0, 9],
+			"to": [13.5, 16, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 8, 9]},
+			"faces": {
+				"north": {"uv": [3.875, 6.875, 6.75, 10.875], "texture": "#t"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [2, 0, 7],
+			"to": [13.5, 16, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 8, 7]},
+			"faces": {
+				"south": {"uv": [0, 6.875, 2.875, 10.875], "texture": "#t"}
+			}
+		},
+		{
+			"name": "pages",
+			"from": [2.5, 0.5, 7],
+			"to": [13.5, 15.5, 9],
+			"faces": {
+				"west": {"uv": [7.625, 1.5, 8.125, 5.25], "texture": "#t"},
+				"up": {"uv": [3.875, 0, 6.625, 0.5], "rotation": 180, "texture": "#t"},
+				"down": {"uv": [3.875, 6.25, 6.625, 6.75], "rotation": 180, "texture": "#t"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 90, -90],
+			"translation": [0, -2, -2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, -90, 90],
+			"translation": [0, -2, -2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-75, 120, 45],
+			"translation": [3, -0.75, -3],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"gui": {
+			"rotation": [-45, -180, 45],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 7.6, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"translation": [0, 0, -0.125],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "cover",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3]
+		}, 4
+	]
+}

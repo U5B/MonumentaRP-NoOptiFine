@@ -1,0 +1,10 @@
+{
+	"parent": "block/cube_all",
+	"display": {
+		"fixed": {
+			"translation": [0, 0, -14],
+			"scale": [2, 2, 2]
+
+		}
+	}
+}

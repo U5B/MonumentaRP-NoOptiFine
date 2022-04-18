@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/monumenta/potions/fresh_salty_swill/potion_overlay",
+        "layer1": "optifine/cit/monumenta/potions/fresh_salty_swill/potion"
+    }
+}

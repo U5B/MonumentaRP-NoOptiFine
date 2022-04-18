@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/kings_valley/unique/potions/grace_of_ta_eldim/potion_overlay",
+        "layer1": "optifine/cit/kings_valley/unique/potions/grace_of_ta_eldim/potion"
+    }
+}

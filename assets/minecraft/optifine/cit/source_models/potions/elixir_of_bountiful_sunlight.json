@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/celsian_isles/uncommon/dungeon/depths/elixir_of_bountiful_sunlight/potion_overlay",
+        "layer1": "optifine/cit/celsian_isles/uncommon/dungeon/depths/elixir_of_bountiful_sunlight/potion"
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"particle": "#layer0",
+		"layer0": "optifine/cit/celsian_isles/skin/patron/weekendtechs_fruit_of_life/weekendtechs_fruit_of_life"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"side": "optifine/cit/kings_valley/rare/willows/loadout_lockbox/loadout_lockbox_side",
+		"bottom": "optifine/cit/kings_valley/rare/willows/loadout_lockbox/loadout_lockbox_bottom",
+		"top": "optifine/cit/kings_valley/rare/willows/loadout_lockbox/loadout_lockbox_top"
+	}
+}

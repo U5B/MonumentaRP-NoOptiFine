@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "merchants_curio/merchants_curio"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.75, -3.75, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0.75, -3.75, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 5],
+			"translation": [1.5, 2, 1.25],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, -5],
+			"translation": [1.5, 2, 1],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"head": {
+			"translation": [0, -13.25, -4.5]
+		}
+	}
+}

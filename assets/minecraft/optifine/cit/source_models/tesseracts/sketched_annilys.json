@@ -1,0 +1,9 @@
+{
+	"credit": "I WIN CRONDIS I MADE ANNILYS THE TEAL TESSERACT",
+	"parent": "optifine/cit/source_models/tesseracts/tesseract_base",
+	"textures": {
+		"texture": "optifine/cit/celsian_isles/skin/battle_pass/sketched_annilys/sketched_annilys",
+		"inside": "optifine/cit/celsian_isles/skin/battle_pass/sketched_annilys/sketched_annilys_inside",
+		"effect": "optifine/cit/celsian_isles/unique/tesseracts/blank_effects"
+	}
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/celsian_isles/uncommon/strike/black_mist/black_mist/potion_overlay",
+        "layer1": "optifine/cit/celsian_isles/uncommon/strike/black_mist/black_mist/potion"
+    }
+}

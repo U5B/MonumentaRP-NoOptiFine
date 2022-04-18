@@ -1,0 +1,6 @@
+{
+	"parent": "optifine/cit/source_models/shields/base_shield_blocking",
+	"textures": {
+		"all": "optifine/cit/celsian_isles/skin/misc/rorrim_arorua/rorrim_arorua"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"credit": "ive argone insane",
+	"parent": "optifine/cit/source_models/tesseracts/tesseract_base",
+	"textures": {
+		"texture": "optifine/cit/celsian_isles/artifact/upgraded_tesseracts/light_blue/light_blue_tesseract_u",
+		"inside": "optifine/cit/celsian_isles/artifact/upgraded_tesseracts/light_blue/light_blue_tesseract_inside_u",
+		"effect": "optifine/cit/celsian_isles/artifact/upgraded_tesseracts/light_blue/light_blue_tesseract_effects_u"
+	}
+}

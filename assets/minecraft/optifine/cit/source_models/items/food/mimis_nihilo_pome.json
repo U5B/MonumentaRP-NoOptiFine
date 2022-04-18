@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"particle": "optifine/cit/celsian_isles/skin/patron/mimis_nihilo_pome/mimis_nihilo_pome_particle",
+		"layer0": "optifine/cit/celsian_isles/skin/patron/mimis_nihilo_pome/mimis_nihilo_pome"
+	}
+}

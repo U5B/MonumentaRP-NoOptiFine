@@ -1,0 +1,45 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/celsian_isles/skin/patron/dailys_alchemists_bag/dailys_alchemists_bag_overlay",
+        "layer1": "optifine/cit/celsian_isles/skin/patron/dailys_alchemists_bag/dailys_alchemists_bag_8"
+    },
+"display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -90, 55 ],
+            "translation": [ 0, 0, 3.5 ],
+            "scale": [ 1.7, 1.7, 0.85 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, -55 ],
+            "translation": [ 0, 0, 3.5 ],
+            "scale": [ 1.7, 1.7, 0.85 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.13, 3.2, 1.13 ],
+            "scale": [ 1.36, 1.36, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.13, 3.2, 1.13 ],
+            "scale": [ 1.36, 1.36, 0.68 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1.0, 1.0, 0.5 ]
+        },
+        "fixed": {
+            "rotation": [ 180, 0, 180 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1.75, 1.75, 1.0 ]
+        },
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 2, 2, 1.0 ]
+        }
+    }
+
+}

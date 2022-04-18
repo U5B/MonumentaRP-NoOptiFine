@@ -1,0 +1,7 @@
+{
+	"parent": "block/template_fence_gate",
+    "textures": {
+        "particle": "optifine/cit/monumenta/items/misc/frosted_gate/frosted_gate",
+        "texture": "optifine/cit/monumenta/items/misc/frosted_gate/frosted_gate"
+    }
+}

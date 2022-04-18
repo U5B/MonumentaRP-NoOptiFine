@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/kings_valley/rare/corridors/essence_of_frost/potion_overlay",
+        "layer1": "optifine/cit/kings_valley/rare/corridors/essence_of_frost/potion"
+    }
+}

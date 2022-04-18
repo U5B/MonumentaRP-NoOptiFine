@@ -1,0 +1,9 @@
+{
+	"credit": "lilac and rose tesseracts 2024",
+	"parent": "optifine/cit/source_models/tesseracts/tesseract_base",
+	"textures": {
+		"texture": "optifine/cit/celsian_isles/unique/tesseracts/pink/pink_tesseract",
+		"inside": "optifine/cit/celsian_isles/unique/tesseracts/pink/pink_tesseract_inside",
+		"effect": "optifine/cit/celsian_isles/unique/tesseracts/blank_effects"
+	}
+}

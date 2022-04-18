@@ -1,0 +1,6 @@
+{
+	"parent": "optifine/cit/source_models/shields/circle_shield",
+	"textures": {
+		"all": "optifine/cit/monumenta/mobs/delves/dreadful_shield/dreadful_shield"
+	}
+}

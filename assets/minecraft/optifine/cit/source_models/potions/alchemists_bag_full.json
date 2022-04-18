@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/monumenta/class/alchemists_bag/alchemists_bag_overlay",
+        "layer1": "optifine/cit/monumenta/class/alchemists_bag/alchemists_bag_full"
+    }
+}

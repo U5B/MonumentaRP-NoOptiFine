@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "optifine/cit/celsian_isles/patron/items/betrayer of the blackflame/betrayer_of_the_blackflame"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0, 11, 1.75],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 11, 1.75],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 90],
+			"translation": [1.13, 6.75, -2.5],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -90],
+			"translation": [1.13, 6.75, -2.5],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"ground": {
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [1, 1, 0],
+			"scale": [2, 2, 1]
+		},
+		"fixed": {
+			"rotation": [180, 0, 180],
+			"translation": [0, 0, -0.5],
+			"scale": [1.75, 1.75, 1]
+		}
+	}
+}

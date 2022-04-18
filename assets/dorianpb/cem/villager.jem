@@ -1,0 +1,84 @@
+{
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -23.5, 0]
+		},
+		{
+			"part": "headwear",
+			"id": "headwear",
+			"invertAxis": "xy",
+			"translate": [0, -23.5, 0],
+			"boxes": [
+				{"coordinates": [-4, 23.5, -4, 8, 8, 8], "textureOffset": [0, 0]},
+				{"coordinates": [-4, 23.5, -4, 8, 8, 8], "textureOffset": [32, 0], "sizeAdd": 0.5}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -23.5, 0],
+			"boxes": [
+				{"coordinates": [-4, 11.5, -2, 8, 12, 4], "textureOffset": [16, 16]}
+			]
+		},
+		{
+			"part": "bodywear",
+			"id": "bodywear",
+			"invertAxis": "xy",
+			"translate": [0, -23.5, 0],
+			"boxes": [
+				{"coordinates": [-4, 11.5, -2, 8, 12, 4], "textureOffset": [16, 32], "sizeAdd": 0.5}
+			]
+		},
+		{
+			"part": "arms",
+			"id": "arms",
+			"invertAxis": "xy",
+			"translate": [0, -14.5, 14.5],
+			"rotate": [-42.5, 0, 0],
+			"boxes": [
+				{"coordinates": [4, 11.5, -2, 4, 12, 4], "textureOffset": [40, 16]},
+				{"coordinates": [-8, 11.5, -2, 4, 12, 4], "textureOffset": [32, 48]},
+				{"coordinates": [4, 11.5, -2, 4, 12, 4], "textureOffset": [40, 32], "sizeAdd": 0.5},
+				{"coordinates": [-8, 11.5, -2, 4, 12, 4], "textureOffset": [48, 48], "sizeAdd": 0.5}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"translate": [2, -12, 0],
+			"boxes": [
+				{"coordinates": [-4, 0, -2, 4, 12, 4], "textureOffset": [16, 48]},
+				{"coordinates": [-4, 0, -2, 4, 12, 4], "textureOffset": [0, 48], "sizeAdd": 0.5}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-2, -12, 0],
+			"boxes": [
+				{"coordinates": [0, 0, -2, 4, 12, 4], "textureOffset": [0, 16]},
+				{"coordinates": [0, 0, -2, 4, 12, 4], "textureOffset": [0, 32], "sizeAdd": 0.5}
+			]
+		},
+		{
+			"part": "headwear2",
+			"id": "headwear2",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "nose",
+			"id": "nose",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		}
+	]
+}

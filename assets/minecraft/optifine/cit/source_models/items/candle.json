@@ -1,0 +1,28 @@
+{
+    "parent": "item/generated",
+	"textures": {
+        "layer0": "item/iron_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.55, 0.55, 0.55],
+			"rotation": [0, -90, 0],
+			"translation": [-0.5, 2, -1]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.55, 0.55, 0.55],
+			"rotation": [0, 90, 0],
+			"translation": [-0.5, 2, -1]
+		},
+		"firstperson_righthand": {
+			"scale": [0.68, 0.68, 0.68],
+			"rotation": [0, -90, -6],
+			"translation": [1.13, 3.2, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.68, 0.68, 0.68],
+			"rotation": [0, 90, 6],
+			"translation": [1.13, 3.2, 0]
+		}
+	}
+}

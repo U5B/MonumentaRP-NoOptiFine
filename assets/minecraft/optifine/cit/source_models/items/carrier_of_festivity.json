@@ -1,0 +1,69 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "optifine/cit/celsian_isles/skin/holiday/the_gift_wrapper/carrier_of_festivity",
+		"particle": "optifine/cit/celsian_isles/skin/holiday/the_gift_wrapper/carrier_of_festivity"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [8, 0, 16, 8], "texture": "#0"},
+				"east": {"uv": [8, 0, 16, 8], "texture": "#0"},
+				"south": {"uv": [8, 0, 16, 8], "texture": "#0"},
+				"west": {"uv": [8, 0, 16, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"down": {"uv": [0, 8, 8, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bow",
+			"from": [5, 16, -7],
+			"to": [5, 32, 9],
+			"rotation": {"angle": -45, "axis": "y", "origin": [-2, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [8, 8, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [8, 8, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.75, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.75, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"rotation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, -45, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -15],
+			"scale": [2, 2, 2]
+		}
+	}
+}

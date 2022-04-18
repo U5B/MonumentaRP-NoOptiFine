@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/celsian_isles/uncommon/dungeon/depths/ultimate_potion_of_protection/potion_overlay",
+        "layer1": "optifine/cit/celsian_isles/uncommon/dungeon/depths/ultimate_potion_of_protection/potion"
+    }
+}

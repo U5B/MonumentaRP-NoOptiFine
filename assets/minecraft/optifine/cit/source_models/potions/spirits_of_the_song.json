@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/celsian_isles/uncommon/boss/frost_giant/spirits_of_the_song/potion_overlay",
+        "layer1": "optifine/cit/celsian_isles/uncommon/boss/frost_giant/spirits_of_the_song/potion"
+    }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "optifine/cit/source_models/shields/bulwark_shield",
+	"textures": {
+		"all": "optifine/cit/kings_valley/rare/magenta/tlaxan_bulwark/tlaxan_bulwark"
+	}
+}

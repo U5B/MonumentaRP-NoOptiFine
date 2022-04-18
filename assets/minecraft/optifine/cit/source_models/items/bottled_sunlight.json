@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "optifine/cit/monumenta/class/bottled_sunlight/bottled_sunlight",
+		"layer1": "optifine/cit/monumenta/class/bottled_sunlight/bottled_sunlight"
+	},
+	"display": {
+		"ground": {
+			"translation": [0, 2.25, 0],
+			"scale": [0.65, 0.65, 0.65]
+		}
+	}
+}
