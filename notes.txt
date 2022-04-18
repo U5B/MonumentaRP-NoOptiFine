@@ -19,6 +19,9 @@ Fixed untextured crossbows, bows, and guns (for real) [Thanks Vladomeme#2984]
 
 Broken Things:
 Tesseracts are literal spike cubes.
+Parrots on shoulders are not textured (requires hacky workaround)...
+Tridents are not textured (requires hacky workaround)...
+
 
 Thanks:
 Thanks to the Monumenta RP creators for making the pack and having to deal with Optifine jank.
