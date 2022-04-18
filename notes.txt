@@ -16,9 +16,9 @@ Added quotes to every entity name in their respective entity.properties
 Fixed Giant texture... (no testing was done) 
 Fixed untextured parrots in guis [Thanks fron#0019 and Noelle#7956]
 Fixed untextured crossbows, bows, and guns (for real) [Thanks Vladomeme#2984]
+Removed texture= from all tesseract .properties files
 
 Broken Things:
-Tesseracts are literal spike cubes.
 Parrots on shoulders are not textured (requires hacky workaround)...
 Tridents are not textured (requires hacky workaround)...
 
