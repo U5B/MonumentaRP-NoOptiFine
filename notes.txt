@@ -11,15 +11,15 @@ JuceDoesThings#2020 (Messing with villager models to not be headless)
 Changes:
 Moved /assets/optifine/mob to /assets/minecraft/textures/entity
 Moved /assets/minecraft/optifine/cem to /assets/dorianpb/cem
-Messed around with villager.jem to fix NPC player models. [Thanks JuceDoesThings#2020]
+Messed around with villager.jem to fix NPC player models. (moved head vertex to head) [Thanks JuceDoesThings#2020]
 Added quotes to every entity name in their respective entity.properties
-Fixed Giant texture... (no testing was done) 
-Fixed untextured parrots in guis [Thanks fron#0019 and Noelle#7956]
-Fixed untextured crossbows, bows, and guns (for real) [Thanks Vladomeme#2984]
+Fixed Giant texture... (used ETF and name) [Untested]
+Fixed untextured parrots in guis (path for parrots was moved) [Thanks fron#0019 and Noelle#7956]
+Fixed untextured crossbows, bows, and guns (path was not set properly) [Thanks Vladomeme#2984]
+Fixed spiky tesseracts (texture path was causing issues) [Thanks Vladomeme#2984]
 
 Broken Things:
-Tesseracts are literal spike cubes.
-Parrots on shoulders are not textured (requires hacky workaround)...
+Parrots on shoulders are not textured (ETF fix)...
 Tridents are not textured (requires hacky workaround)...
 
 
