@@ -1,4 +1,5 @@
 {
+  "credits": "Edited by usb#3568: fixed texture path",
 	"parent": "optifine/cit/source_models/gui/parrot_bell/display_parrot_base",
 	"textures": {
 		"all": "textures/entity/parrot/parrot_blue4"
