@@ -17,6 +17,7 @@ Fixed Giant texture... (used ETF and name) [Untested]
 Fixed untextured parrots in guis (path for parrots was moved) [Thanks fron#0019 and Noelle#7956]
 Fixed untextured crossbows, bows, and guns (path was not set properly) [Thanks Vladomeme#2984]
 Fixed spiky tesseracts (texture path was causing issues) [Thanks Vladomeme#2984]
+Fixed Giant model (added model parts) [Thanks Vladomeme#2984]
 
 Broken Things:
 Parrots on shoulders are not textured (ETF fix)...
