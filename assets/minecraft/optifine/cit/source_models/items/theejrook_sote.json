@@ -1,8 +1,8 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench || By theejrook",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "sword of the exiled (theejrook)/sword_of_the_exiled"
+		"layer0": "/sword_of_the_exiled"
 	},
 	"display": {
 		"thirdperson_righthand": {
