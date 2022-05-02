@@ -1,0 +1,6 @@
+{
+	"parent": "optifine/cit/source_models/shields/circle_shield",
+	"textures": {
+		"all": "optifine/cit/celsian_isles/rare/gray/sahra_ib/sahra_ib"
+	}
+}
