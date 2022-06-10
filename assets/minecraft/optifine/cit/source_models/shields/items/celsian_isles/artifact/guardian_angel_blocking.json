@@ -1,0 +1,6 @@
+{
+	"parent": "optifine/cit/source_models/shields/circle_shield_blocking",
+	"textures": {
+		"all": "optifine/cit/celsian_isles/artifact/floating_carnival/guardian_angel/guardian_angel_blocking"
+	}
+}

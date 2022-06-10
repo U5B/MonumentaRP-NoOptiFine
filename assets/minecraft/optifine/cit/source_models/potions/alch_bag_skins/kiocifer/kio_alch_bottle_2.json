@@ -1,0 +1,10 @@
+{
+	"parent": "optifine/cit/source_models/potions/alch_bag_skins/kiocifer/kio_alch_bottle_model",
+	"textures": {
+		"1": "optifine/cit/source_models/potions/alch_bag_skins/kiocifer/kio_potion_active",
+		"2": "optifine/cit/source_models/potions/alch_bag_skins/kiocifer/kio_alchemist_bottle",
+		"3": "optifine/cit/source_models/potions/alch_bag_skins/kiocifer/kio_potion_inactive",
+		"4": "optifine/cit/source_models/potions/alch_bag_skins/kiocifer/kio_potion_active",
+		"5": "optifine/cit/source_models/potions/alch_bag_skins/kiocifer/kio_potion_inactive"
+	}
+}

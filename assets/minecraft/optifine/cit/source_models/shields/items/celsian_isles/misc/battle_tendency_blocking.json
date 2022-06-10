@@ -1,0 +1,6 @@
+{
+	"parent": "optifine/cit/source_models/shields/circle_shield_blocking",
+	"textures": {
+		"all": "optifine/cit/celsian_isles/unique/shields/battle_tendency/battle_tendency"
+	}
+}

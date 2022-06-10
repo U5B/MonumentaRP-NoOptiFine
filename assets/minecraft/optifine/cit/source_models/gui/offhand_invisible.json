@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "items/iron_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-167, -90, 55],
+			"translation": [-1.25, -2.25, 1],
+			"scale": [0.02, 0.02, 0.02]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-167, 90, -55],
+			"translation": [-1, -1.75, 1.25],
+			"scale": [0.02, 0.02, 0.02]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, -90, 75],
+			"translation": [3, -5.5, 2],
+			"scale": [0.01, 0.01, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 90, -75],
+			"translation": [3, -5.5, 2],
+			"scale": [0.01, 0.01, 0.68]
+		},
+		"ground": {
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [3, 3, 0],
+			"scale": [2, 2, 1]
+		},
+		"fixed": {
+			"rotation": [180, 0, 180],
+			"scale": [1.75, 1.75, 1]
+		}
+	}
+}
