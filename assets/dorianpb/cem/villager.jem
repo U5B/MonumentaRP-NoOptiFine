@@ -1,5 +1,5 @@
 {
-    "credits": "Edited by Vladomeme#2984, removed head animations to fix heads (same as old fix), removed seemingly useless section from arms that was making weird lines on some NPCs, slightly edited arms to fix texture placement on 3 px arms",
+  "credits": "Edited by Vladomeme#2984, removed head animations to fix heads (same as old fix), removed seemingly useless section from arms that was making weird lines on some NPCs, slightly edited arms to fix texture placement on 3 px arms",
 	"textureSize": [64, 64],
 	"models": [
 		{

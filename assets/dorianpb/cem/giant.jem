@@ -1,6 +1,6 @@
 {
-    "credits": "Edited by Vladomeme#2984.",
-    "textureSize": [64, 64],
+  "credits": "Edited by Vladomeme#2984.",
+  "textureSize": [64, 64],
 	"texture": "giant.png",
 	"models": [
 		{
