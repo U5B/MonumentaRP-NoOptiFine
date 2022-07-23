@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "optifine/cit/celsian_isles/patron/items/betrayer of the blackflame/betrayer_of_the_blackflame"
+		"layer0": "optifine/cit/celsian_isles/patron/items/betrayer_of_the_blackflame/betrayer_of_the_blackflame"
 	},
 	"display": {
 		"thirdperson_righthand": {
