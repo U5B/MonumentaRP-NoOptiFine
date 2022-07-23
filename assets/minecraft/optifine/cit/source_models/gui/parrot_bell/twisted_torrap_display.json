@@ -1,0 +1,6 @@
+{
+	"parent": "optifine/cit/source_models/gui/parrot_bell/display_parrot_base",
+	"textures": {
+		"all": "optifine/mob/parrot/parrot_blue5"
+	}
+}
