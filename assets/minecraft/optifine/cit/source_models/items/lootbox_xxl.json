@@ -1,8 +1,0 @@
-{
-	"parent": "block/cube_bottom_top",
-	"textures": {
-		"side": "optifine/cit/kings_valley/epic/lootbox_xxl/lootbox_xxl_side",
-		"bottom": "optifine/cit/kings_valley/epic/lootbox_xxl/lootbox_xxl_bottom",
-		"top": "optifine/cit/kings_valley/epic/lootbox_xxl/lootbox_xxl_top"
-	}
-}

@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "optifine/cit/monumenta/potions/soulgazer_potion/potion_overlay",
-        "layer1": "optifine/cit/monumenta/potions/soulgazer_potion/potion"
+        "layer0": "optifine/cit/monumenta/legacy/celsian_isles/soulgazer_potion/potion_overlay",
+        "layer1": "optifine/cit/monumenta/legacy/celsian_isles/soulgazer_potion/potion"
     }
 }

@@ -1,6 +1,6 @@
 {
     "textures": {
-        "all": "optifine/cit/kings_valley/misc/currency/ancient_power_crystal/ancient_power_crystal"
+        "all": "optifine/cit/kings_valley/currency/ancient_power_crystal/ancient_power_crystal"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

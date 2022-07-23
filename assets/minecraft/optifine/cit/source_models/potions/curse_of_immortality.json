@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "optifine/cit/monumenta/potions/curse_of_immortality/potion_overlay",
-        "layer1": "optifine/cit/monumenta/potions/curse_of_immortality/potion"
+        "layer0": "optifine/cit/monumenta/legacy/celsian_isles/curse_of_immortality/potion_overlay",
+        "layer1": "optifine/cit/monumenta/legacy/celsian_isles/curse_of_immortality/potion"
     }
 }
