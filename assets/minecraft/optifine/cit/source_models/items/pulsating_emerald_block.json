@@ -1,6 +1,6 @@
 {
     "textures": {
-        "all": "optifine/cit/celsian_isles/misc/currency/pulsating_emerald_block/pulsating_emerald_block"
+        "all": "optifine/cit/celsian_isles/currency/pulsating_emerald_block/pulsating_emerald_block"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

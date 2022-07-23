@@ -1,6 +1,6 @@
 {
     "textures": {
-        "all": "optifine/cit/celsian_isles/misc/currency/flawless_magma_crystal/flawless_magma_crystal"
+        "all": "optifine/cit/celsian_isles/currency/flawless_magma_crystal/flawless_magma_crystal"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],
