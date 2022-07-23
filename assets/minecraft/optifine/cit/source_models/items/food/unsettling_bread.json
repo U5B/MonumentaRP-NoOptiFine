@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"particle": "#layer0",
+		"layer0": "optifine/cit/kings_valley/patron/materials/unsettling_bread/unsettling_bread"
+	}
+}
