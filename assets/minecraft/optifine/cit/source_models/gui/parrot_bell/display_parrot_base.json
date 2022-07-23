@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"particle": "./monumenta/gui/parrot_bell/display_parrots/radiant_conure/radiant_conure_display"
+		"particle": "optifine/cit/source_models/gui/parrot_bell/empty"
 	},
 	"elements": [
 		{
