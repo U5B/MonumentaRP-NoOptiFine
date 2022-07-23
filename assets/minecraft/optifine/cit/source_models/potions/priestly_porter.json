@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "optifine/cit/monumenta/potions/priestly_porter/potion_overlay",
-        "layer1": "optifine/cit/monumenta/potions/priestly_porter/potion"
+        "layer0": "optifine/cit/monumenta/legacy/kings_valley/priestly_porter/potion_overlay",
+        "layer1": "optifine/cit/monumenta/legacy/kings_valley/priestly_porter/potion"
     }
 }

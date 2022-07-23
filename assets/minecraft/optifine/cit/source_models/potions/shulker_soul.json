@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "optifine/cit/monumenta/potions/shulker_soul/potion_overlay",
-        "layer1": "optifine/cit/monumenta/potions/shulker_soul/potion"
+        "layer0": "optifine/cit/celsian_isles/uncommon/overworld/potions/shulker_soul/potion_overlay",
+        "layer1": "optifine/cit/celsian_isles/uncommon/overworld/potions/shulker_soul/potion"
     }
 }
