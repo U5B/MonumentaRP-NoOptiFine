@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "sword of the exiled (theejrook)/sword_of_the_exiled"
+		"layer0": "jrooks_sword_of_the_exiled/sword_of_the_exiled"
 	},
 	"display": {
 		"thirdperson_righthand": {
