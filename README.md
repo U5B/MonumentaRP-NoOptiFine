@@ -1,11 +1,15 @@
+# > Installation Instructions here <
+https://github.com/U5B/MonumentaRP-NoOptiFine/wiki/Installing-Resource-Pack
+
+### Other Information
 Made for 1.18.2 Fabric
-Built on Monumenta RP v3.5.2
+Built on Monumenta RP v3.6.0
 
 Contributors:
 usb#3568
+Vladomeme#2984 (Various Model Edits)
 Noelle#7956 (Resource Pack Lead, helped with finding solutions to bugs)
 fron#0019 (Reporting a bunch of bugs)
-Vladomeme#2984 (Various Model Edits)
 JuceDoesThings#2020 (Messing with villager models to not be headless)
 
 Changes:
@@ -22,7 +26,6 @@ Fixed villager model for v3.3.0 (details in the .jem file) [Thanks Vladomeme#298
 Broken Things:
 Parrots on shoulders are not textured (ETF fix)...
 Tridents are not textured (requires hacky workaround)...
-
 
 Thanks:
 Thanks to the Monumenta RP creators for making the pack and having to deal with OptiFine jank.
