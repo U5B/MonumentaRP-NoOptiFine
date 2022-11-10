@@ -7,7 +7,7 @@ Built on Monumenta RP v3.6.0
   
 Contributors:  
 usb#3568  
-Vladomeme#2984 (Various Model Edits)  
+Vladomeme#2984 (literally the maintainer of this resourcepack now)  
 Noelle#7956 (Resource Pack Lead, helped with finding solutions to bugs)  
 fron#0019 (Reporting a bunch of bugs)  
 JuceDoesThings#2020 (Messing with villager models to not be headless)  
