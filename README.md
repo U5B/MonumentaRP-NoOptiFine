@@ -5,28 +5,25 @@ https://github.com/U5B/MonumentaRP-NoOptiFine/wiki/Installing-Resource-Pack
 Made for 1.18.2 Fabric  
 Built on Monumenta RP v3.6.0  
   
-Contributors:  
+**Contributors:**  
 usb#3568  
-Vladomeme#2984 (literally the maintainer of this resourcepack now)  
+Vladomeme#2984 (Literally the maintainer of this resourcepack now)  
 Noelle#7956 (Resource Pack Lead, helped with finding solutions to bugs)  
 fron#0019 (Reporting a bunch of bugs)  
 JuceDoesThings#2020 (Messing with villager models to not be headless)  
-  
-Changes:  
+
+**Changes:**  
 Moved /assets/optifine/mob to /assets/minecraft/textures/entity  
 Moved /assets/minecraft/optifine/cem to /assets/dorianpb/cem  
-Messed around with villager.jem to fix NPC player models. (moved head vertex to head) [Thanks JuceDoesThings#2020 and Valdomeme#2984]  
-Fixed Giant texture... [Thanks Valdomeme#2984]  
 Fixed untextured parrots in guis (path for parrots was moved) [Thanks fron#0019 and Noelle#7956]  
-Fixed untextured crossbows, bows, and guns (path was not set properly) [Thanks Vladomeme#2984]  
-Fixed spiky tesseracts (texture path was causing issues) [Thanks Vladomeme#2984]  
-Fixed Giant model (added model parts) [Thanks Vladomeme#2984]  
-Fixed villager model for v3.3.0 (details in the .jem file) [Thanks Vladomeme#2984]  
+Fixed untextured crossbows, bows, and guns (model overrides were not set properly)  
+Fixed various items (including tesseracts) that specified texture in .properties file while actually using multiple textures in linked model (removed texture assignment from .properties)  
+Fixed Giant model (added model parts identical to vanilla)  
+Fixed Villager model by adding missing uv elements (ignored by optifine for some reason) and mirroring some up/down uv elements (CEM bug)  
+Added texture files for entities with different states (angry wolfs, bees etc.)  
+Fixed all broken paths (paths using non-vanilla allowed characters)
 
-Broken Things:  
-Parrots on shoulders are not textured (ETF fix)...  
-Tridents are not textured (requires hacky workaround)...  
+**Broken Things:**  
+Tridents are not textured with the latest version of CIT Resewn (Could use old version linked in the wiki above)  
   
-Thanks:  
-Thanks to the Monumenta RP creators for making the pack and having to deal with OptiFine jank.  
-Thanks to you for testing my pack edit...  
+**Thanks to the Monumenta RP creators for making the pack and having to deal with OptiFine jank.**  
