@@ -23,8 +23,7 @@ Fixed Villager model by adding missing uv elements (ignored by optifine for some
 Added texture files for entities with different states (angry wolfs, bees etc.)  
 Fixed all broken paths (paths using non-vanilla allowed characters)
 
-**Broken Things:**  
-Tridents are not textured with the latest version of CIT Resewn (Could use old version linked in the wiki above)  
+**Broken Things:**   
 Emissive textures don't apply to handheld items (Not supported by CIT Resewn)
   
 **Thanks to the Monumenta RP creators for making the pack and having to deal with OptiFine jank.**  
