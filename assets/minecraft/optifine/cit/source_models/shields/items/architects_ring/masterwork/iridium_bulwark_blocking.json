@@ -1,0 +1,6 @@
+{
+	"parent": "optifine/cit/source_models/shields/bulwark_shield_blocking",
+	"textures": {
+		"all": "optifine/cit/architects_ring/masterwork/wolfswood/locum_vernantia/iridium_bulwark/iridium_bulwark"
+	}
+}
