@@ -3,7 +3,7 @@ https://github.com/U5B/MonumentaRP-NoOptiFine/wiki/Installing-Resource-Pack
 
 ### Other Information  
 Made for 1.18.2 Fabric  
-Built on Monumenta RP v3.6.0  
+Built on Monumenta RP v4.0.0  
   
 **Contributors:**  
 usb#3568  

@@ -1,0 +1,6 @@
+{
+	"parent": "optifine/cit/source_models/shields/circle_shield",
+	"textures": {
+		"all": "optifine/cit/architects_ring/masterwork/brown/handcranked_gearshield/handcranked_gearshield"
+	}
+}

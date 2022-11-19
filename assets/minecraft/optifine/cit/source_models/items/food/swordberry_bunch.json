@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"particle": "#layer0",
+		"layer0": "optifine/cit/monumenta/items/food/swordberry_bunch/swordberry_bunch"
+	}
+}
