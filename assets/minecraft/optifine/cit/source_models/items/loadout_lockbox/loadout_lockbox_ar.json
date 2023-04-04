@@ -1,0 +1,6 @@
+{
+	"parent": "optifine/cit/source_models/items/loadout_lockbox_base",
+	"textures": {
+		"top": "optifine/cit/kings_valley/artifact/misc/loadout_lockbox/loadout_lockbox_top_ar"
+	}
+}

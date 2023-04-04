@@ -1,0 +1,6 @@
+{
+	"parent": "optifine/cit/source_models/shields/bulwark_shield",
+	"textures": {
+		"all": "optifine/cit/architects_ring/masterwork/skt/remnants_of_isharist/remnants_of_isharist"
+	}
+}

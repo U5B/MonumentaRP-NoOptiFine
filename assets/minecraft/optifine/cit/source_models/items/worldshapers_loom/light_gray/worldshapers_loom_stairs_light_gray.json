@@ -1,0 +1,6 @@
+{
+	"parent": "optifine/cit/source_models/items/worldshapers_loom/worldshapers_loom_stairs_base",
+	"textures": {
+		"texture": "optifine/cit/architects_ring/epic/worldshapers_loom/light_gray/worldshapers_loom_light_gray"
+	}
+}

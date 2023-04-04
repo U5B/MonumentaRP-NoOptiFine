@@ -23,7 +23,7 @@
 			"scale": [1.1, 1.1, 1.1]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [90, -90, -180],
+			"rotation": [90, 90, -180],
 			"translation": [0, -2, -0.5],
 			"scale": [1.1, 1.1, 1.1]
 		},
@@ -47,7 +47,8 @@
 			"scale": [1.4, 1.4, 1.4]
 		},
 		"head": {
-			"translation": [0, 14.5, 0]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 8, -6.5]
 		},
 		"fixed": {
 			"rotation": [0, 180, 0],

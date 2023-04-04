@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/kings_valley/rare/light_blue/bastion_core/bastion_core_overlay",
+        "layer1": "optifine/cit/kings_valley/rare/light_blue/bastion_core/bastion_core_none"
+    }
+}

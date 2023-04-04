@@ -2,8 +2,7 @@
 https://github.com/U5B/MonumentaRP-NoOptiFine/wiki/Installing-Resource-Pack  
 
 ### Other Information  
-Made for 1.18.2 Fabric  
-Built on Monumenta RP v4.0.0  
+Built on Monumenta RP v4.1.0  
   
 **Contributors:**  
 usb#3568  
@@ -24,6 +23,6 @@ Added texture files for entities with different states (angry wolfs, bees etc.)
 Fixed all broken paths (paths using non-vanilla allowed characters)
 
 **Broken Things:**   
-Emissive textures don't apply to handheld items (Not supported by CIT Resewn)
+Charged creeper auras use default texture (Not supported by ETF yet)
   
 **Thanks to the Monumenta RP creators for making the pack and having to deal with OptiFine jank.**  

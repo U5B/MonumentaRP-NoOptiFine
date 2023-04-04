@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/architects_ring/masterwork/blue/hexbound_elixir/hexbound_elixir_overlay",
+        "layer1": "optifine/cit/architects_ring/masterwork/blue/hexbound_elixir/hexbound_elixir_none"
+    }
+}

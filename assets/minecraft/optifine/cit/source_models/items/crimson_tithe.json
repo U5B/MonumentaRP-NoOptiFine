@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "optifine/cit/architects_ring/masterwork/skt/crimson_tithe/crimson_tithe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [167, 90, 50],
+			"translation": [0, -8.25, 1.75],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-167, -90, -26],
+			"translation": [0, -8.25, 1.75],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, -90, 75],
+			"translation": [3, -4.5, 2],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 90, -75],
+			"translation": [3, -4.5, 2],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"ground": {
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [3, 3, 0],
+			"scale": [2, 2, 1]
+		},
+		"fixed": {
+			"rotation": [180, 0, 180],
+			"scale": [1.75, 1.75, 1]
+		}
+	}
+}
