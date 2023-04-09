@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "optifine/cit/kings_valley/epic/delves/box_of_endless_echoes/lime/box_of_endless_echoes_lime",
 		"1": "optifine/cit/kings_valley/epic/delves/box_of_endless_echoes/lime/box_of_endless_echoes_echo_lime",
-        "2": "misc/empty"
+        	"2": "misc/empty"
 	},
 	"elements": [
 		{

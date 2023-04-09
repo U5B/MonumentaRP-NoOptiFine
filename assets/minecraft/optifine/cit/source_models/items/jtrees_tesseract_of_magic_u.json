@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "optifine/cit/celsian_isles/skin/patron/jtrees_tesseract_of_magic_u/jtrees_tesseract_of_magic_u",
-        "3": "misc/empty"
+        	"3": "misc/empty"
 	},
 	"elements": [
 		{

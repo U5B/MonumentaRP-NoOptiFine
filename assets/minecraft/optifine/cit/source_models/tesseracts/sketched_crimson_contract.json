@@ -1,0 +1,8 @@
+{
+	"parent": "optifine/cit/source_models/tesseracts/tesseract_base",
+	"textures": {
+		"texture": "optifine/cit/kings_valley/skin/battle_pass/sketched_crimson_contract/sketched_crimson_contract",
+		"inside": "optifine/cit/kings_valley/skin/battle_pass/sketched_crimson_contract/sketched_crimson_contract_inside",
+		"effect": "optifine/cit/celsian_isles/unique/tesseracts/blank_effects"
+	}
+}

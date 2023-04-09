@@ -3,9 +3,8 @@
 	"textures": {
 		"0": "optifine/cit/kings_valley/skin/patron/nooks_shulker_box/nooks_shulker_box",
 		"2": "optifine/cit/kings_valley/skin/patron/nooks_shulker_box/nooks_shulker_box_top2",
-        "3": "misc/empty",
+        	"3": "misc/empty",
 		"10": "optifine/cit/kings_valley/skin/patron/nooks_shulker_box/nooks_shulker_box_top"
-
 	},
 	"elements": [
 		{

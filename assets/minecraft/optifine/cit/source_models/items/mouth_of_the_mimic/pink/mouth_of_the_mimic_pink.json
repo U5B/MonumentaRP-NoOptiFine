@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "optifine/cit/kings_valley/skin/mythic_reliquary/mouth_of_the_mimic/pink/mouth_of_the_mimic_pink",
 		"1": "optifine/cit/kings_valley/skin/mythic_reliquary/mouth_of_the_mimic/pink/mouth_of_the_mimic_top_pink",
-        "2": "misc/empty"
+        	"2": "misc/empty"
 	},
 	"elements": [
 		{

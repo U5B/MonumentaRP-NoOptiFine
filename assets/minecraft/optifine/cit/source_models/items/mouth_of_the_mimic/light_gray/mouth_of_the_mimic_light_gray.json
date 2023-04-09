@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "optifine/cit/kings_valley/skin/mythic_reliquary/mouth_of_the_mimic/light_gray/mouth_of_the_mimic_light_gray",
 		"1": "optifine/cit/kings_valley/skin/mythic_reliquary/mouth_of_the_mimic/light_gray/mouth_of_the_mimic_top_light_gray",
-        "2": "misc/empty"
+        	"2": "misc/empty"
 	},
 	"elements": [
 		{
