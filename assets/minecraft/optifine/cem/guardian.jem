@@ -254,30 +254,6 @@
 				}
 			]
 		},
-        {
-            "part": "head",
-            "id": "head",
-            "invertAxis": "xy",
-            "translate": [0, 0, 0]
-        },
-        {
-            "part": "right_fin",
-            "id": "right_fin",
-            "invertAxis": "xy",
-            "translate": [0, 0, 0]
-        },
-        {
-            "part": "back_fin",
-            "id": "back_fin",
-            "invertAxis": "xy",
-            "translate": [0, 0, 0]
-        },
-        {
-            "part": "left_fin",
-            "id": "left_fin",
-            "invertAxis": "xy",
-            "translate": [0, 0, 0]
-        },
 		{
 			"part": "eye",
 			"id": "eye",
