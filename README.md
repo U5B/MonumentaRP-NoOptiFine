@@ -1,4 +1,7 @@
-# > Installation Instructions here <  
+# This resourcepack has been merged into the main Monumenta pack
+Join the Monumenta (discord)[https://discord.gg/monumenta] to download the new resource pack.
+
+### > Installation Instructions here <  
 https://github.com/U5B/MonumentaRP-NoOptiFine/wiki/Installing-Resource-Pack  
 
 **Changes:**  
